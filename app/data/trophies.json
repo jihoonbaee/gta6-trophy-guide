@@ -1,392 +1,692 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Earn the remaining 54 trophies, including A Long Road, to finish the platinum hunt. Use the five-stage roadmap to separate story progress, side missions, activity victories, and collection work, then check every outstanding trophy individually. Reaching the game's 100% statistic is one requirement within that hunt; it does not replace the other trophy objectives.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — completion and platinum requirements", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Follow Jason's opening work with Donnie in Gone Fishing, which introduces taking goods from a shipment and the Fishing Shacks operation. Finish the mission objectives rather than treating a visit to the shacks as completion. This belongs to Chapter 1 story progression; the consulted walkthrough gives no trophy-specific failure choice or permanent lockout.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — opening story mission context", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}, {"name": "IGN — Illegal Operations introduction", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Continue the Key Lento story through Chapter 1's concluding missions, with Discharge Time listed last in IGN's chapter sequence. Before starting Tourist Trap, finish the chapter-limited optional jobs; selling goods to Donnie has an earlier cutoff at Clear Skies. The official trophy condition is chapter completion, but the exact award timing and replay behavior were not documented in the consulted pages.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Chapter 1 sequence", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}, {"name": "IGN — Chapter 1 cutoff points", "url": "https://www.ign.com/wikis/gta-6/Chapter_1_Guide_and_Tips"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Work through the Port Gellhorn chapter while Lucia helps Jason recover, then continue to Checking Out, the last mission in the published Chapter 2 sequence. Its departure objective takes the pair toward Vice City. Keep a separate save before leaving as a planning precaution; the consulted sources do not establish a permanent Chapter 2 trophy lockout or the precise award moment.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Chapter 2 progression", "url": "https://www.ign.com/wikis/gta-6/Chapter_2_Guide_and_Tips"}, {"name": "IGN — story mission order", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "After Chapter 2, follow the main-story objectives until the third chapter is finished. Keep a chapter-start save so unresolved side content can be checked later without guessing about availability. The walkthrough consulted had not yet published Chapter 3, so its final mission, exact trophy timing, and any chapter-specific cutoff remain unverified.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — walkthrough coverage limit; Chapters 1–2 only", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Advance the central story beyond Chapter 3 and finish the fourth chapter's objectives. Preserve a save before major departures or choices as a precaution while late-game guidance is incomplete. Chapter 4 routes and its concluding mission were absent from the walkthrough consulted, so no particular location, decision, or point of no return can be confirmed here.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — walkthrough coverage limit; later chapters pending", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Finish the main story's final assignment after progressing through the chapter objectives. Retain a save before the finale as a precaution, especially if you want to revisit relationship or story decisions. The consulted walkthrough stops before the later chapters, so the finale's title, start location, and whether any ending changes this trophy are not verified.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — available walkthrough and missing late-story coverage", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}, {"name": "IGN — story completion requirement", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "During Chapter 2, return to the motel to check on Jason when Breakfast Run becomes your current story assignment. IGN places it after Slam Dunk and before Coffee Break, so use that sequence to locate your progress if you are unsure what comes next. Complete the assignment's displayed objectives; no trophy-specific missable action is established by the consulted walkthrough.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Breakfast Run objective and chapter placement", "url": "https://www.ign.com/wikis/gta-6/Chapter_2_Guide_and_Tips"}, {"name": "IGN — mission sequence", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Watch your story objectives for The Cartel Heist and finish that named assignment when it becomes available. The official condition identifies a mission, so ordinary bank robberies are not evidence that this particular objective is complete. Its chapter placement, preparation requirements, and replay rules were not covered in the walkthrough consulted.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — general story context; this mission not yet covered", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Continue the story and finish the assignment named Child's Play once it appears among your objectives. Keep track of the mission title rather than inferring a hidden family-related activity from the trophy name. The published walkthrough consulted had no entry for this mission, leaving its starting location, chapter, and any one-time choices unverified.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — story framework; Child's Play not covered", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Use Headliners as the mission name to watch for while advancing the main narrative. Follow that mission's on-screen requirements through completion instead of searching for a separate activity suggested by the trophy title. The consulted walkthrough had not documented Headliners, so its venue, unlock prerequisites, and missability cannot be specified reliably.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — story context; Headliners coverage unavailable", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Progress until the named VCIA Takedown mission is available, then complete its required objectives. Keep this mission trophy separate from Catch Me If You Can, whose description concerns a departure at VCIA. The available walkthrough did not cover VCIA Takedown, so a specific entry route, chapter assignment, or irreversible decision would be speculation.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — story context; VCIA Takedown not covered", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Finish the story assignment called Operation Savage Glory when progression makes it available. Treat the mission title as your reliable reference; the trophy name alone does not establish a weather condition or region to visit. Its route and any special choices were not documented in the consulted walkthrough, and no permanent trophy lockout has been verified.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — story context; Operation Savage Glory not covered", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Finish the story, then open the map's Progress section and inspect Stats for the 100% Completion breakdown. Work through its unfinished categories individually: several requirements exceed the thresholds of their standalone trophies, including stunts, race wins, and vehicle discoveries. IGN says optional missions are required and identifies chapter-limited jobs, so complete those during Chapter 1 before Tourist Trap rather than postponing every side mission. The completion guide is still being updated and contains some conflicting totals; use the in-game category display to resolve discrepancies.",
+      "kind": "activities",
+      "missable": true,
+      "missableNote": "IGN requires all optional missions for 100% and identifies Chapter 1-only jobs. Finish Get Shirley's Rum, Find the Lost Drugs, and Ring the Bell! before Tourist Trap; Ring the Bell! has a narrower window at the start of Swamped. Mission replay recovery is unverified.",
+      "sources": [{"name": "IGN — 100% requirements and Stats access", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — chapter-limited missions and cutoff", "url": "https://www.ign.com/wikis/gta-6/Chapter_1_Guide_and_Tips"}, {"name": "IGN — Ring the Bell! availability", "url": "https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables"}],
+      "steps": ["Handle Chapter 1-only optional jobs during their availability windows.", "Finish the narrative to expose the 100% Stats panel.", "Compare each incomplete category with its in-game target.", "Clear remaining categories and confirm the total reaches 100%."],
+      "roadmapStage": 5,
+      "count": 100
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Build your stunt total across jumps, bridge flights, knife flights, and BASE jumps around Leonida. Rotate between those categories and record successful completions so failed attempts do not inflate your personal checklist. The trophy stops at 250, whereas IGN lists 300 for the broader 100% objective; continue beyond the trophy if A Long Road is still unfinished. No one-time availability window is established in the consulted guide.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — stunt categories and completion target", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — map and stunt checklist overview", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 3,
+      "count": 250
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "As you explore, keep a list of activity types tried and deliberately sample categories you normally skip. IGN specifically links completing a drone trial to this trophy, so include one instead of only visiting its van. Use the guide's activity sections to find gaps, but the complete trophy-specific type list was not documented in the pages consulted; no fixed count or missable window is confirmed.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — drone trial contribution to Master of None", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — activity categories", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Visit the Rodgers Ranch and Griffin shooting-range hubs and work through the available classes and levels. Track medal quality for every entry; clearing a challenge without gold leaves this objective unfinished. IGN lists 42 gold medals as a 100% minimum but does not establish that this is the total number required by the trophy's word 'all', so follow the full in-game challenge list. The consulted sources identify no chapter cutoff for range practice.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — shooting-range hubs and gold-medal minimum", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — Shooting Ranges guide index", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Look for the Top Fun vans and complete their drone courses, keeping a location checklist so you do not repeat one site while overlooking another. Each run involves passing the course rings and finishing inside its par time; learning the turns before pushing for speed is a useful approach. IGN lists 42 races for 100%, but does not equate that number with distinct trophy locations, so no location target is asserted here. No permanent availability restriction was established by the consulted pages.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — drone race rules and completion coverage", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — activity map overview", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "steps": ["Maintain a list of drone locations already won.", "At each remaining van, enter the trial and learn its ring route.", "Complete a qualifying run before marking that location finished."],
+      "roadmapStage": 3
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Choose races you have not yet won, rather than farming repeated wins on a familiar course. IGN lists race venues including Gellhorn Raceway, Thrillbilly Mud Club, and Hit 'N' Run VC, giving you several places to expand your checklist. Stop counting toward this trophy at 20 distinct victories, but plan for 30 if you are also chasing the published 100% requirement. No race-specific point of no return was identified in the consulted guide.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — unique races, venues, and 100% distinction", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — racing activity index", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 3,
+      "count": 20
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Read Cal's fishing message and travel to its marked fishing area with your rod ready. His first documented challenge asks for a Stoplight Parrotfish over 2 lb; use Focus to locate fish, hook a committed bite, and reel during pauses in its struggle. Photograph a qualifying catch when prompted so Cal receives the result. This can be started during Chapter 1, but the fishing guide establishes no permanent trophy deadline.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Cal's challenge and fishing controls", "url": "https://www.ign.com/wikis/gta-6/How_to_Fish"}, {"name": "IGN — messages and map coordinates", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "steps": ["Check the species and record in Cal's message before choosing your fishing spot.", "Use the marked area and Focus to find fish, then cast toward them.", "Tire the hooked fish and reel between its struggles.", "Send the prompted catch photo to Cal."],
+      "roadmapStage": 3
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Find an arcade offering a game such as Bang For Your Buck or Street Trash 3: Dezombifier, both named in IGN's completion coverage. Play through the selected game's ending instead of counting a single round or a short visit as completion. The source also discusses home-console games, but does not verify which of those satisfy this arcade-specific trophy. No permanent arcade cutoff is documented.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — arcade games and completion distinction", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — games activity index", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Follow Andy's available assignments through to the end of the strand, checking messages and returning when new objectives appear. Finish the last assignment itself; meeting Andy or receiving her help during the story does not establish that her strand is complete. The consulted optional-mission guide had not documented Andy's full sequence, so the finale's name, starting location, and availability window remain unverified.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — optional-mission framework; Andy strand not covered", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"}, {"name": "IGN — contacts and incoming objectives", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 2
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Kenton is introduced as a treasure hunter during Chapter 1's Island Dreams, with work at his Key Lento home. Continue his assignments toward the strand's final mission, while treating the separate treasure-set checklist as collection work. IGN notes that Kenton is unavailable as an NPC during Chapter 2, but does not establish a permanent failure state for this trophy. His final mission and its unlock conditions were not documented in the consulted pages.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Island Dreams and Kenton's introduction", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}, {"name": "IGN — Kenton's Chapter 2 absence", "url": "https://www.ign.com/wikis/gta-6/How_to_Sell_Cars,_Collectibles,_and_Stolen_Goods_-_Fence_Contact_Locations"}],
+      "roadmapStage": 2
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Keep Billy's assignments together in your side-mission checklist and continue until the final one is completed. Check contact messages between jobs, since phone messages can carry objective locations. The sources consulted explain that general system but do not document Billy's mission chain, its start point, or a deadline; no particular route is claimed here.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — optional missions; Billy sequence not covered", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"}, {"name": "IGN — contact messages and objective locations", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 2
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Record completed stranger storylines separately from individual encounters, because the requirement counts eight strands. Explore between main missions, investigate nearby conversations with Focus, and inspect flyers or messages that can introduce optional work. Handle Chapter 1-only jobs as they appear instead of leaving all stranger content for later. The consulted pages do not identify the complete set of eight qualifying strands or prove that any particular missed job permanently blocks this trophy.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — optional mission availability", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"}, {"name": "IGN — finding encounters and early limited jobs", "url": "https://www.ign.com/wikis/gta-6/Chapter_1_Guide_and_Tips"}, {"name": "IGN — Focus sound tracking", "url": "https://www.ign.com/wikis/gta-6/How_Focus_Works"}],
+      "roadmapStage": 2,
+      "count": 8
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "When Randy's work becomes available, follow his strand through its concluding assignment rather than stopping after an introductory job. Revisit unread messages for follow-up objectives and keep his progress separate from other strangers. Randy's full route, meeting place, and possible chapter restrictions were not documented in the optional-mission sources consulted.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — optional mission context; Randy route unavailable", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"}, {"name": "IGN — phone reminders and contacts", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 2
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Complete Tyrone's successive assignments and check his strand off only after its final mission is done. Use contact messages to keep track of any new objective coordinates rather than searching an invented fixed location. The consulted guides had not published Tyrone's sequence, so its precise prerequisites and any one-time window remain unknown.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — optional missions; Tyrone strand not documented", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"}, {"name": "IGN — messages and coordinates", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 2
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Make a location checklist for meditation while travelling through Leonida and record the interaction at each spot. IGN identifies 18 spots and says some need visits both with your partner and alone, so revisit a location if its completion remains outstanding. Its 100% requirement only calls for 15, while this trophy explicitly asks for every spot. No permanent meditation deadline is established by the sources consulted.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — meditation locations, repeat visits, and 100% distinction", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — Fitness and Focus tracking", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 4,
+      "count": 18
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Watch for Bret Vogel's hunting requests after the activity becomes available, then use his requested animal as your target. Focus can identify animal scent trails and keep a selected trail visible while you track it. Follow the request's completion instructions rather than assuming any wildlife kill qualifies. The consulted guide had not revealed the hunting unlock mission or the trophy's eligible unique animal, and it establishes no permanent deadline.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Bret's hunting requests and coverage limit", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — tracking animal trails with Focus", "url": "https://www.ign.com/wikis/gta-6/How_Focus_Works"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Choose three card collections and track their missing cards by set rather than counting unrelated pickups. IGN's checklist shows that set sizes vary, so completing a smaller collection can be more manageable than spreading effort across many unfinished ones. Follow the card locations on the guide's map and verify that each chosen collection is complete. No chapter-limited card window is documented; the much larger 100% card requirement is separate from this three-set trophy.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — card-set sizes and collection checklist", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — collectible maps and checklists", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 4,
+      "count": 3
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "Open WAiNK when its nearby-scan notification appears and log the location before moving on. Use a checklist for the documented scan categories, including landmarks, curiosities, sculptures, billboards, and tags, rather than assuming every object scanned advances the location total. Vehicle scans belong to their own discovery work. The consulted sources describe 100 qualifying location scans and identify no permanent availability window.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — WAiNK notifications and scanning", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}, {"name": "IGN — qualifying scan categories", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "steps": ["Compare your location checklist with the guide's scan categories.", "Check WAiNK notifications while exploring the remaining areas.", "Scan the site and record a new location only after it registers."],
+      "roadmapStage": 4,
+      "count": 100
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Check the challenge list regularly and choose unfinished objectives that suit the activity you are already doing. IGN describes multiple categories with specific feats, so a completed activity is not automatically a completed Challenge. Work toward 50 registered completions for this trophy, then continue toward the guide's higher 70-Challenge target if pursuing 100%. No challenge-specific permanent lockout is established in the consulted coverage.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Challenge categories and 100% threshold", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — Challenges guide index", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 4,
+      "count": 50
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Attempt this with your partner present and monitor the stars until the chase reaches four. Plan a route that breaks police sightlines, then deal with the identifying Heat icons and leave the affected area; losing the immediate pursuit does not necessarily clear residual heat. Keep the partner condition intact rather than relying on the general guide's split-up tactic. The consulted sources explain pursuit and partner heat but do not verify this trophy's exact partner-distance rules or a one-time window.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — four-star pursuit and residual Heat", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}, {"name": "IGN — Focus while driving and spotting police", "url": "https://www.ign.com/wikis/gta-6/How_Focus_Works"}],
+      "steps": ["Bring your partner and prepare an escape route before attempting the chase.", "Confirm the Wanted display reaches four stars.", "Break visual contact, address Heat identifiers, and leave the hot area.", "Check for the award before treating the attempt as successful."],
+      "roadmapStage": 3
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Scout a short route connecting three shops before starting, with your partner accompanying you. Carry out the robberies as one continuous attempt and watch the Wanted display between stops; clearing it breaks the condition stated in the official description. Plan the final escape for after the third shop rather than following ordinary advice to clear heat after each crime. The consulted Wanted guide supports the chase mechanics, but does not identify a tested three-shop route or a permanent missability window.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — consecutive robberies and Wanted escalation", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}, {"name": "IGN — shop robbery categories", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "steps": ["Choose three nearby shops and bring your partner.", "Rob each stop while preserving the active Wanted Level between them.", "After the third robbery, check the award and make your getaway."],
+      "roadmapStage": 3,
+      "count": 3
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Use WAiNK to scan unfamiliar vehicles during ordinary travel and check the Vehicles collection in Progress for discoveries already logged. Vary the vehicle classes and places you explore to reduce duplicate scans instead of repeatedly studying the same traffic. This trophy's target is 100, while IGN lists 200 vehicle discoveries toward 100% completion. No permanent discovery cutoff is documented in the consulted pages.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — scanning vehicles and Progress collection", "url": "https://www.ign.com/wikis/gta-6/Chapter_2_Guide_and_Tips"}, {"name": "IGN — vehicle discovery method and 100% target", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "roadmapStage": 4,
+      "count": 100
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Prepare ammunition and a healthy Focus meter before engaging a group large enough to supply five targets. Once they are visible, activate Focus with both stick clicks and aim efficiently, since aiming drains the meter. IGN distinguishes lethal red target zones from yellow areas that wound or disarm; complete all five takedowns within the same activation. The consulted guide identifies no required mission or permanent window for this attempt.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Combat Focus controls and target zones", "url": "https://www.ign.com/wikis/gta-6/How_Focus_Works"}, {"name": "IGN — gang operations as combat encounters", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}],
+      "steps": ["Prepare your weapon and meter before facing at least five enemies.", "Find a position with several clear targets before activating Focus.", "Complete five takedowns without ending that activation."],
+      "roadmapStage": 3,
+      "count": 5
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "The official clue directs you to a departure at VCIA, but does not define the exact qualifying action. IGN confirms that stealing an airport airplane provokes a four-star response and recommends bringing a parachute, so prepare for a dangerous airport attempt if testing that interpretation. This is contextual advice, not a verified trophy solution: the required aircraft, departure trigger, and availability window were not established in the sources consulted.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — airport airplane theft consequences; trophy trigger unverified", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "The Rhino reference suggests tank-related play, but the official clue does not state the action that awards this trophy. IGN documents accessible Rhinos at Mile Zero Air Station and an approach using its southern stunt jump; save before experimenting because entry draws heavy police resistance. That source explains obtaining and driving the tank, not this trophy's trigger. A required destruction count, survival time, or escape condition would be speculation, and no permanent deadline is established.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Rhino access; trophy trigger not verified", "url": "https://www.ign.com/wikis/gta-6/How_to_Get_a_Rhino_Tank"}, {"name": "IGN — high Wanted levels and six-star consequences", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Scout a jewelry shop's entrances and security before committing to an attempt, using Focus to identify alarms and nearby threats. Plan around the requirement to remain undetected throughout the robbery; escaping after being seen does not satisfy that wording. IGN lists jewelry shops and explains local CCTV and witness heat, but the consulted pages do not provide a verified detection-free route for this trophy. No specific shop or permanent attempt window is confirmed.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — jewelry robbery locations", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — security reconnaissance and CCTV", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}, {"name": "IGN — Focus highlights alarms", "url": "https://www.ign.com/wikis/gta-6/How_Focus_Works"}],
+      "steps": ["Inspect security and possible entrances before starting a robbery.", "Choose an approach that avoids detection rather than relying on a fast getaway.", "Complete the theft and confirm the award; a detected attempt does not meet the stated condition."],
+      "roadmapStage": 3
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Use the large banks with actual vaults rather than counting cash drawers or ordinary safes as vault robberies. IGN lists eight vault sites, including large banks in Ocean Beach and Downtown, and says an optional mission unlocks access, although its name is hidden in the consulted text. Prepare an escape before each attempt and record five completed vault jobs with successful getaways. The source does not establish a permanent vault deadline or whether repeated hits on one site qualify.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — vault sites and unlock limitation", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — escape preparation and Heat", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}],
+      "steps": ["Unlock vault access through the game's optional-mission progression.", "Select a large bank with a vault and plan the exit before entering.", "Complete the vault robbery and clear the ensuing pursuit.", "Record successful jobs until five qualifying robberies are complete."],
+      "roadmapStage": 3,
+      "count": 5
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Prepare a getaway before attempting an armored-truck robbery, since the stated requirement includes escaping afterward. Use the Wanted display and Heat identifiers to judge your escape rather than stopping as soon as the loot is taken. The consulted police guide supports those general escape mechanics, but does not document armored-truck spawns, an opening method, or a trophy-specific deadline. Follow the game's available robbery prompts instead of assuming a particular weapon is required.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — general robbery escape mechanics; truck method unverified", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Plan trips across Leonida's different regions and use the map to identify areas you have not yet explored. Combine those trips with location scans and collection work so revisits serve more than one objective. IGN provides an exploration map, but the consulted pages do not define this trophy's exact discovery percentage or whether offshore areas count. No permanent exploration deadline is confirmed, and Key Lento access is restricted during Chapter 2.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Leonida map and exploration checklists", "url": "https://www.ign.com/wikis/gta-6/"}, {"name": "IGN — Chapter 2 regional access restriction", "url": "https://www.ign.com/wikis/gta-6/Chapter_2_Guide_and_Tips"}],
+      "roadmapStage": 4
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Track the gang behind each operation you rob so multiple jobs against one faction do not hide a missing faction. Illegal Operations begin with Gone Fishing, and IGN identifies the Kingfishers in the Keys alongside operations that open in later areas. Plan both the valuables you want and a way out, then use different regions to broaden faction coverage. The consulted pages do not provide the complete trophy-specific gang list or establish a permanent lockout.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Illegal Operations and chapter availability", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — Kingfishers and early robbery opportunities", "url": "https://www.ign.com/wikis/gta-6/Chapter_1_Guide_and_Tips"}],
+      "roadmapStage": 3
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Use Ocean Beach as the search area and look for an available cocktail interaction with a view, as the official clue specifies. Treat the beach name as a location clue rather than assuming any drink bought anywhere qualifies. The consulted exploration guide supports finding places around Leonida but does not identify the venue, drink, or viewpoint that triggers this trophy. No exact time of day or permanent availability window is verified.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — exploration context; cocktail trigger not covered", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "The official description points to leaving a vehicle showroom by smashing out, with an additional 'classic style' clue that remains ambiguous. Scout any showroom attempt and its exit before causing damage, then prepare for the ordinary witness and police response described by IGN. The sources consulted do not establish a particular showroom, vehicle, or qualifying escape action, so those details remain unverified. No permanent trophy window is documented.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — crime and escape context; showroom trigger unverified", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Use the named Kolt & Associates bowling alley as your destination clue, then inspect the available interactions rather than assuming a normal bowling score is required. IGN's map can help with location searches, but its consulted overview does not document this trophy's action. The phrase 'follow-through' is too vague to justify a combat sequence, score target, or mission requirement. Its exact trigger and any one-time window remain unknown.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — map context; named bowling trophy not documented", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "The partnership clue suggests investigating the game's partner systems, but does not establish a particular relationship rank or activity. You can inspect Jason and Lucia's relationship in their map menu and review interactions while keeping a save before experiments. IGN documents that relationship system, but does not connect it to Personal Best; specific trophy details were not documented in the sources consulted. No reliable step sequence or permanent missability claim can be given yet.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — relationship context; Personal Best trigger unverified", "url": "https://www.ign.com/wikis/gta-6/Sex_and_Romance"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "Pay attention to choices during story missions and preserve a separate save before decisions you may want to revisit. IGN confirms that mission choices can affect the partnership, but does not identify which decision, if any, awards this trophy. Specific trophy details were not documented in the sources consulted, so neither a required answer nor a chapter cutoff is asserted. The choice-related clue alone does not prove that the trophy can be permanently missed.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — story choice framework; trophy solution unavailable", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}, {"name": "IGN — effects of mission choices on relationships", "url": "https://www.ign.com/wikis/gta-6/Sex_and_Romance"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "Continue the story while keeping distinct saves at major transitions, so an unresolved clue can be revisited when reliable guidance appears. 'Second time' does not establish what event must happen twice, and repeating an arbitrary failure is not a verified method. The consulted walkthrough had no trophy solution, leaving the location, trigger, and missability unknown. No specific retry action is recommended without further evidence.",
+      "kind": "story",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — story context; Bad Luck, I Guess not documented", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}],
+      "roadmapStage": 1
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "Leave this unresolved clue on the cleanup list while exploring and checking optional encounters, rather than travelling to an invented secret location. IGN explains how exploration, conversations, and flyers can lead to side content, but does not tie any encounter to this trophy. Specific trophy details were not documented in the sources consulted, and the wording does not establish an alien event or required mission. No trigger sequence or permanent deadline is verified.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — optional encounter context; trophy trigger unknown", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"}, {"name": "IGN — exploration and discoveries context", "url": "https://www.ign.com/wikis/gta-6/"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "The description requires a melee drive-by, so look for the game's vehicle-based melee interaction rather than assuming a firearm attack qualifies. Focus while driving can give extra reaction time, which may help when testing the stated maneuver. The consulted sources explain driving Focus but do not verify the necessary vehicle, controls, target type, or number of hits for this trophy. No mission-specific or permanent attempt window is established.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — driving Focus; melee drive-by trigger unverified", "url": "https://www.ign.com/wikis/gta-6/How_Focus_Works"}],
+      "roadmapStage": 5
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "After the relevant Chapter 3 progression unlocks processing, gather Marked Bills from bank jobs, payday-loan jobs, or vault robberies. Compare the rates shown for your fence contacts and process the bills before selling, following the available in-game instructions. Track the money actually earned toward $250,000 rather than assuming the haul's face value is the payout. IGN does not expose the unlock mission's name or a permanent deadline, and its lower $100,000 completion requirement does not replace this trophy target.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Marked Bills sources, processing, and Chapter 3 unlock", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"}, {"name": "IGN — fence goods and contact rates", "url": "https://www.ign.com/wikis/gta-6/How_to_Sell_Cars,_Collectibles,_and_Stolen_Goods_-_Fence_Contact_Locations"}],
+      "steps": ["Unlock Marked Bills processing through story progression.", "Choose a contact by checking the rates displayed on the map.", "Collect bills during eligible robberies and process them using the unlocked system.", "Launder through contacts and track earnings until they total $250,000."],
+      "roadmapStage": 5,
+      "count": 250000
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Build your shopping total through purchases you need while progressing, then use remaining funds for cleanup if the trophy is still outstanding. Check the payment types accepted at each shop and use ATMs when money needs moving between cash and BuckMe. Keep a record of shop spending toward $100,000; the consulted sources do not confirm that services or property purchases count. No deadline or permanently limited spending opportunity is documented.",
+      "kind": "activities",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — shop payment methods and ATM transfers", "url": "https://www.ign.com/wikis/gta-6/Chapter_2_Guide_and_Tips"}, {"name": "IGN — BuckMe account management", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 5,
+      "count": 100000
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Use the Vice City Real Estate phone app to inspect garage properties and buy the remaining ones as funds allow. Keep an ownership checklist so extra vehicle storage at a familiar garage does not get mistaken for another property purchase. IGN confirms that this app sells garages, but the consulted pages do not document the full property count, prices, or whether later story progress adds listings. No permanent purchase cutoff is established.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — garage purchases through Vice City Real Estate", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}],
+      "roadmapStage": 4
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Work toward ten vehicle registrations and verify each appears in the Scooter Bros system rather than counting a WAiNK scan as registration. IGN documents ownership registration through Moses in Chapter 2 and describes Scooter Bros as the vehicle delivery app. Those pages provide the ownership and app context, but do not verify the exact app-registration flow for this trophy, so follow the in-game prompts before marking a vehicle complete. No permanent registration window is documented.",
+      "kind": "collectibles",
+      "missable": false,
+      "missableNote": "",
+      "sources": [{"name": "IGN — Scooter Bros vehicle delivery", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}, {"name": "IGN — vehicle ownership registration through Moses", "url": "https://www.ign.com/wikis/gta-6/How_to_Sell_Cars,_Collectibles,_and_Stolen_Goods_-_Fence_Contact_Locations"}],
+      "roadmapStage": 4,
+      "count": 10
+    }
+  ]
 }

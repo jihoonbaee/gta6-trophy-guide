@@ -1,0 +1,4 @@
+out/
+out-repeat/
+.capture/
+.capture-server.log

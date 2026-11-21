@@ -1,5 +1,8 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+{
+  "screenshots": [
+    { "file": "screenshots/1-cover.jpg", "scene": "cover", "url": "/?shot=cover", "viewport": { "width": 1280, "height": 720 }, "description": "Two-column trophy checklist, citation audit, grade totals, progress and filters." },
+    { "file": "screenshots/2-guide.jpg", "scene": "guide", "url": "/?shot=guide", "viewport": { "width": 1280, "height": 900 }, "description": "A Long Road guide with a missable warning, procedure and linked sources." },
+    { "file": "screenshots/3-roadmap.jpg", "scene": "roadmap", "url": "/?shot=roadmap", "viewport": { "width": 1280, "height": 900 }, "description": "Five ordered roadmap stages, chapter cutoffs and sources." },
+    { "file": "screenshots/4-tracker.jpg", "scene": "tracker", "url": "/?shot=tracker", "viewport": { "width": 1280, "height": 900 }, "description": "Active spoiler shield, concealed story trophies, demo progress and JSON backup controls." }
+  ]
+}

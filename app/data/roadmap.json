@@ -1,0 +1,78 @@
+{
+  "stages": [
+    {
+      "stage": 1,
+      "title": "Story first — Chapters 1–4 and the finale",
+      "description": "Follow the chapter objectives in numerical order, then complete the final mission; IGN recommends early story progress to unlock equipment and systems, but its published walkthrough currently covers only Chapters 1–2. Take chapter-limited side jobs when they appear rather than postponing them to the next stage, and keep separate saves before major departures as a precaution. Known cutoffs are listed below; late-story trophy routes and chapter boundaries remain unverified, and no particular ending is prescribed.",
+      "trophyIds": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 48, 49],
+      "pointsOfNoReturn": [
+        "Chapter 1 — Donnie's goods drop-off becomes unavailable when Clear Skies begins; sell any intended haul beforehand.",
+        "Chapter 1 — finish Get Shirley's Rum, Find the Lost Drugs, and other Chapter 1-only jobs before starting Tourist Trap through Take Up Mattia's Offer.",
+        "Chapter 1 — Ring the Bell! has a narrower window: respond to Cal's message and visit the Rusty Anchor at the start of Swamped, before continuing to Brian's marina.",
+        "Chapter 2 — Key Lento is inaccessible during this chapter according to IGN; this is a regional restriction, not evidence that every unfinished trophy is lost.",
+        "Chapter 2 — Checking Out is the documented departure from the motel toward Vice City; a permanent optional-content cutoff at this mission is not verified.",
+        "Chapter 3 — no chapter-specific point of no return was established by the sources consulted; keep a separate save as a precaution.",
+        "Chapter 4 and finale — chapter boundaries, ending consequences, and permanent trophy lockouts were not documented in the consulted walkthrough."
+      ],
+      "sources": [
+        {"name": "IGN — early progression advice and Chapter 1 cutoff points", "url": "https://www.ign.com/wikis/gta-6/Chapter_1_Guide_and_Tips"},
+        {"name": "IGN — Chapter 1-only side mission windows", "url": "https://www.ign.com/wikis/gta-6/All_Chapter_1_Missables"},
+        {"name": "IGN — Chapter 2 departure and access restrictions", "url": "https://www.ign.com/wikis/gta-6/Chapter_2_Guide_and_Tips"},
+        {"name": "IGN — published chapter sequence and later coverage limit", "url": "https://www.ign.com/wikis/gta-6/Walkthrough"}
+      ]
+    },
+    {
+      "stage": 2,
+      "title": "Stranger strands — finish the people stories",
+      "description": "Use this as a suggested cleanup pass for eight stranger strands and the final assignments for Andy, Kenton, Billy, Randy, and Tyrone, not as a claim that all can safely be deferred. IGN says most optional missions remain available beyond their introductory chapter, while a few have restricted windows, so the Chapter 1 exceptions belong in your first-stage playthrough. Check messages and nearby conversations for leads; the full qualifying strand list and these characters' final-mission routes were not documented in the sources consulted.",
+      "trophyIds": [22, 23, 24, 25, 26, 27],
+      "pointsOfNoReturn": [
+        "Do not defer Chapter 1-only optional jobs to this cleanup stage; see the first stage's Tourist Trap and Swamped warnings.",
+        "Kenton is unavailable as an NPC during Chapter 2 according to IGN; the consulted sources do not establish a permanent lockout for his final-mission trophy."
+      ],
+      "sources": [
+        {"name": "IGN — optional-mission availability and chapter exceptions", "url": "https://www.ign.com/wikis/gta-6/Optional_Missions"},
+        {"name": "IGN — contacts, messages, and objective coordinates", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"},
+        {"name": "IGN — Kenton's temporary absence", "url": "https://www.ign.com/wikis/gta-6/How_to_Sell_Cars,_Collectibles,_and_Stolen_Goods_-_Fence_Contact_Locations"}
+      ]
+    },
+    {
+      "stage": 3,
+      "title": "Activities — victories, skills, and getaways",
+      "description": "Group race wins, drone locations, Cal's fishing challenge, arcade completion, 250 stunts, and gold medals across the Shooting Range challenges into a dedicated activity pass. Add hunting, combat, and robbery attempts as their systems become available; this grouping is a planning recommendation rather than a required unlock sequence. Record trophy victories separately from 100% targets, and leave ambiguous VCIA or Rhino triggers marked unverified instead of assuming a speculative method is complete.",
+      "trophyIds": [15, 16, 17, 18, 19, 20, 21, 29, 33, 34, 36, 37, 38, 39, 40, 41, 43],
+      "pointsOfNoReturn": [],
+      "sources": [
+        {"name": "IGN — activity systems and higher 100% thresholds", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"},
+        {"name": "IGN — Cal's fishing challenge", "url": "https://www.ign.com/wikis/gta-6/How_to_Fish"},
+        {"name": "IGN — robbery escape and Heat mechanics", "url": "https://www.ign.com/wikis/gta-6/Wanted_Guide_-_How_to_Escape_the_Cops_and_Clear_Heat"}
+      ]
+    },
+    {
+      "stage": 4,
+      "title": "Collectibles and counts — sweep Leonida",
+      "description": "Plan regional sweeps for three complete card sets, 100 WAiNK locations, 100 vehicle discoveries, every meditation spot, and 50 Challenges, combining travel with exploration and garage or vehicle-registration work. Use collection checklists to avoid duplicates, and keep trophy totals distinct from the larger targets listed for 100% completion. This is a suggested way to reduce repeated trips; the sources do not establish a universal post-story availability guarantee, and the exact Scooter Bros registration flow remains unverified.",
+      "trophyIds": [28, 30, 31, 32, 35, 42, 54, 55],
+      "pointsOfNoReturn": [],
+      "sources": [
+        {"name": "IGN — collection checklists and 100% requirements", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"},
+        {"name": "IGN — collection map and exploration tools", "url": "https://www.ign.com/wikis/gta-6/"},
+        {"name": "IGN — WAiNK, garage app, and Scooter Bros", "url": "https://www.ign.com/wikis/gta-6/Apps_and_Social_Media"}
+      ]
+    },
+    {
+      "stage": 5,
+      "title": "Cleanup and platinum — A Long Road to legend",
+      "description": "After the story, inspect Progress → Stats → 100% Completion and resolve each unfinished category for A Long Road, including requirements that exceed standalone trophy counts. Finish remaining spending, laundering, and clue-based trophies, keeping undocumented triggers explicitly unresolved rather than treating guesses as solutions. Vice Got a Price! follows only when all other 54 trophies are earned, so complete both the 100% statistic and the remaining individual awards.",
+      "trophyIds": [1, 14, 44, 45, 46, 47, 50, 51, 52, 53],
+      "pointsOfNoReturn": [
+        "A Long Road depends on optional missions according to IGN, including Chapter 1-only jobs: preserve those opportunities during the first stage rather than discovering the gap during final cleanup.",
+        "The consulted completion guide is still being updated and has some conflicting totals; use the game's own category targets to resolve discrepancies."
+      ],
+      "sources": [
+        {"name": "IGN — Stats access, 100% completion, and platinum dependency", "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide"},
+        {"name": "IGN — Chapter 1-only jobs and cutoff points", "url": "https://www.ign.com/wikis/gta-6/Chapter_1_Guide_and_Tips"}
+      ]
+    }
+  ]
+}
